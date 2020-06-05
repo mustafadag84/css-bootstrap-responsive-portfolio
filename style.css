@@ -1,0 +1,21 @@
+header{}
+
+h1{
+    background-color: lightseagreen;
+    color: white;
+    font-style: inherit;
+    text-align: center;
+}
+.nav justify-content-center{
+    margin-right: 20px;
+}
+ a{
+     color: gray;
+ }
+
+ footer{
+     background-color: darkgray;
+     text-align: center;
+     color: white;
+     margin-bottom: 0;
+ }
