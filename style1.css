@@ -7,3 +7,22 @@ h1{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+h2{
+    color: lightseagreen;
+}
+
+a{
+    color: gray;
+}
+
+.btn{
+    background-color: lightseagreen;
+}
+footer{
+    color: white;
+    padding-top: 20px;
+     padding-bottom: 20px;
+     margin-top: 30px;
+     text-align: center;
+}
