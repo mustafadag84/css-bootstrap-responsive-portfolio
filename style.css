@@ -1,33 +1,43 @@
 
-h1{
-    background-color: lightseagreen;
-    color: white;
-    text-align: center;
-    margin-bottom: 0;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
+    h1{
+        background-color: lightseagreen;
+        color: white;
+        text-align: center;
+        margin-bottom: 0;
+        margin-left: 0;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        
+    }
 
-h2{
-    color: lightseagreen;
-    margin-left: 10px;
-}
+    .nav{
+        justify-content: flex-end;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    
+    }
 
 a{
     color: gray;
 }
 
-hr{
-     margin-top: 0;
- }
+main{
+    background-color: honeydew;
+}
+h2{
+    color: lightseagreen;
+    margin-left: 10px;
+}
+
 
  footer{
      text-align: center;
      color: white;
      padding-top: 20px;
      padding-bottom: 20px;
-     margin-top: 30px;
+     margin-top: 240px;
      margin-bottom: 0;
+
  }
 
 /* Small devices (landscape phones, 576px and up)

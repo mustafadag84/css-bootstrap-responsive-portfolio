@@ -8,6 +8,10 @@ h1{
     padding-bottom: 20px;
 }
 
+.nav{
+    justify-content: flex-end;
+}
+
 h2{
     color: lightseagreen;
     margin-left: 10px;
@@ -27,7 +31,9 @@ a{
 }
 footer{
     text-align: center;
-    color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
+     color: white;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     margin-top: 240px;
+     margin-bottom: 0;
 }
