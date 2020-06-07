@@ -10,12 +10,16 @@ h1{
 
 h2{
     color: lightseagreen;
+    margin-left: 10px;
 }
 
 a{
     color: gray;
 }
 
+form{
+    margin-left: 0;
+}
 .btn{
     background-color: lightseagreen;
 }

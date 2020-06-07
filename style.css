@@ -1,9 +1,3 @@
-body{
-    background: url(../../assets/images/navy.jpg);
-    background-size: cover;
-    
-}
-
 
 h1{
     background-color: lightseagreen;
@@ -16,6 +10,7 @@ h1{
 
 h2{
     color: lightseagreen;
+    margin-left: 10px;
 }
 
 a{
@@ -32,6 +27,7 @@ hr{
      padding-top: 20px;
      padding-bottom: 20px;
      margin-top: 30px;
+     margin-bottom: 0;
  }
 
 /* Small devices (landscape phones, 576px and up)
