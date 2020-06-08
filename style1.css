@@ -1,15 +1,19 @@
 h1{
     background-color: lightseagreen;
     color: white;
-    font-style: inherit;
     text-align: center;
     margin-bottom: 0;
+    margin-left: 0;
     padding-top: 15px;
     padding-bottom: 15px;
+    
 }
 
 .nav{
-    justify-content: flex-end;  
+    justify-content: flex-end;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
 }
 
 main{
