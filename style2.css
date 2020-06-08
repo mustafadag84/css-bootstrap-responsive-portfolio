@@ -6,7 +6,7 @@ h1{
     margin-left: 0;
     padding-top: 15px;
     padding-bottom: 15px;
-    
+    font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
 .nav{
@@ -19,10 +19,11 @@ a{
     color: gray;
 } 
 
+
 h2{
-    color: lightseagreen;
-    margin-left: 10px;
-    
+color: lightseagreen;
+margin-left: 10px;
+font-family: Georgia, 'Times New Roman', Times, serif;    
 }
 
 img{
@@ -35,8 +36,8 @@ h5{
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
     
-    position: relative;
 }
 
 
