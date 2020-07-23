@@ -9,7 +9,7 @@ body {
 
 
 h1{
-background-color: lightseagreen;
+
 color: white;
 text-align: center;
 margin-bottom: 0;
@@ -29,14 +29,60 @@ padding-bottom: 15px;
 
 
 h2{
-color: lightseagreen;
+color: white;
 margin-left: 10px;
 font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
-a{
-    color:white;
-}
+a {
+    text-decoration: none;
+    color: #ffff;
+    font-size: 21px;
+    display: block;
+    padding: 5px 10px;
+    position: relative;
+    text-transform: uppercase;
+    margin: 0 10px;
+    transition: all 0.5s;
+  }
+  a:hover {
+    background-color: #e91e63;
+    color: white;
+  }
+  a:before {
+    content: "";
+    position: absolute;
+    bottom: 12px;
+    left: 12px;
+    width: 12px;
+    height: 12px;
+    border: 3px solid #e91e63;
+    border-width: 0 0 3px 3px;
+    opacity: 0;
+    transition: all 0.3s;
+  }
+  a:hover:before {
+    opacity: 1;
+    bottom: -7px;
+    left: -7px;
+  }
+  a:after {
+    content: "";
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 12px;
+    height: 12px;
+    border: 3px solid #e91e63;
+    border-width: 3px 3px 0 0;
+    opacity: 0;
+    transition: all 0.3s;
+  }
+  a:hover:after {
+    opacity: 1;
+    top: -7px;
+    right: -7px;
+  }
 
 form{
     margin-left: 0;
