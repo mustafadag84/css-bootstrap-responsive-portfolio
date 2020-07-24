@@ -83,6 +83,7 @@ img{
     position: cover;
     box-shadow: black;
     
+    
 }
 
 h5{
@@ -102,7 +103,7 @@ footer{
      padding-top: 20px;
      padding-bottom: 20px;
      margin-top: 240px;
-     margin-bottom: 0;
+     margin-bottom: 10px;
 }
 
 .card{
