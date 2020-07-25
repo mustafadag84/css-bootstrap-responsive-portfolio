@@ -36,10 +36,7 @@ h1{
     
     }
 
-    .nav-link{
-      color: white;
-  }
-  
+    
     a.nav-link {
         text-decoration: none;
         color: #ffff;
@@ -47,7 +44,6 @@ h1{
         display: block;
         padding: 5px 10px;
         position: relative;
-       
         margin: 0 10px;
         transition: all 0.5s;
       }
@@ -99,11 +95,12 @@ h2{
     font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
-img{
+#bio{
     margin-bottom: 20px;
     justify-content: center;
-    border-radius: 2%;
+    border-radius: 20%;
 }
+
 
 p{
     line-height: 30px;
@@ -111,6 +108,17 @@ p{
     font-weight: 500;
     font-size: 20px;
 }
+
+form{
+  margin-left: 0;
+  
+}
+
+label{
+color: white;
+
+}
+
  footer{
      text-align: center;
      margin-top: 200px;
@@ -144,6 +152,17 @@ p{
  color:red;
 }
 
+button{
+  background-color: #007bb5;
+  border-radius: 10px;
+  border: none;
+}
+
+#resume{
+  font-size: 20px;
+  color: white;
+ 
+}
 
 span{
   margin-left: 50px;
