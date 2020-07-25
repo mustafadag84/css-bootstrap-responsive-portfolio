@@ -3,12 +3,16 @@
  
 
 ## Technologies Used
+-HTML
+-CSS
+-BOOTSTAP GRID
+
 
 ## Webpage Screenshots
  
-![Screenshot (108)](https://user-images.githubusercontent.com/63365781/88364876-4d881e00-cd52-11ea-88fc-04e3b0f9ea4b.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/63365781/88449189-debec980-ce12-11ea-8c72-2a473c4e0fd2.png)
 
-![Screenshot (106)](https://user-images.githubusercontent.com/63365781/88364911-67296580-cd52-11ea-87b2-12e3132cad15.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/63365781/88449198-eed6a900-ce12-11ea-9cac-f73ed7094caa.png)
 
-![password-generator](https://user-images.githubusercontent.com/63365781/88364944-7d372600-cd52-11ea-90f5-28a9dcf44bb2.png)
+![Screenshot (115)](https://user-images.githubusercontent.com/63365781/88449206-fd24c500-ce12-11ea-93e9-2e1ba4d7fb65.png)
 
