@@ -7,7 +7,10 @@ body {
     background-size: cover;
   }
 
-
+header{
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
 h1{
     
     color: white;

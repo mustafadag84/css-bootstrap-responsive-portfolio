@@ -7,6 +7,10 @@ body {
   }
 
 
+  header{
+    margin-top: 10px;
+    padding-bottom: 0px;
+  }
 
 h1{
 
@@ -92,11 +96,15 @@ a.nav-link:hover:after {
 
 form{
     margin-left: 0;
+    
 }
 
 label{
   color: white;
+  
 }
+
+
 
 footer{
   text-align: center;
