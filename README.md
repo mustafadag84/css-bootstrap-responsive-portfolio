@@ -1,11 +1,13 @@
 # Updated Portfolio
+This is my second portfolio which is updated version of my previous one. Entire portfolio has been stylied such as; some animation has been added to header section, Navigation section has been stylied with CSS hover and fonts styleid, Entire body has been covered by a under water image, 5 repositories has been added to portfolio page(include a group project), and footer section has been added github,linkedin and resume links. Work will continue on portfolio for better functionality and styling.
 
  
 
 ## Technologies Used
--HTML
--CSS
--BOOTSTAP GRID
+#HTML
+#CSS
+#BOOTSTAP GRID
+#Visual Studio Code
 
 
 ## Webpage Screenshots
