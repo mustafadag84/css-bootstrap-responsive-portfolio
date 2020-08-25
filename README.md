@@ -4,10 +4,10 @@ This is my second portfolio which is updated version of my previous one. Entire 
  
 
 ## Technologies Used
-#HTML
-#CSS
-#BOOTSTAP GRID
-#Visual Studio Code
+# HTML
+# CSS
+# BOOTSTAP GRID
+# Visual Studio Code
 
 
 ## Webpage Screenshots
