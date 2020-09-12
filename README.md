@@ -17,4 +17,5 @@ This is my second portfolio which is updated version of my previous one. Entire 
 ![Screenshot (121)](https://user-images.githubusercontent.com/63365781/88469334-9ceb5d00-cebe-11ea-9bdc-178bc834558d.png)
 
 ## Webpage Links
- 
+* https://mustafadag84.github.io/updated-portfolio/
+* https://github.com/mustafadag84/updated-portfolio
